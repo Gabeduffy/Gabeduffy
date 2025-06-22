@@ -1,2 +1,2 @@
 Consulting Services offered to clients 
-Data Science technigqyes were used as the backbone of my analysis 
+Data Science techniques were used as the backbone of my analysis 
